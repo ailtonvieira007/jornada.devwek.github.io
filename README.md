@@ -1,2 +1,2 @@
-# jornada.devwek.github.io
+# Jornada.devwek.github.io
 Currículo da Jornada Dev Week
